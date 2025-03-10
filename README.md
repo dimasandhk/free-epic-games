@@ -8,5 +8,5 @@ Anggota Kelompok:
 - RM Novian Malcolm Bayuputra 5027231035
 - Naufal Syafi' Hakim 5027231022
 
-Preview:
+Preview:<br/>
 <img src="./prev.jpg" />
