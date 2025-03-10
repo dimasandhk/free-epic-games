@@ -9,3 +9,4 @@ Anggota Kelompok:
 - Naufal Syafi' Hakim 5027231022
 
 Preview:
+<img src="./prev.jpg" />
