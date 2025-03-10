@@ -1,6 +1,6 @@
 const axios = require("axios");
 
-export const getFreeGames = async () => {
+const getFreeGames = async () => {
   const response = await axios.get(
     "https://store-site-backend-static.ak.epicgames.com/freeGamesPromotions?country=ID"
   );
@@ -25,3 +25,5 @@ export const getFreeGames = async () => {
 
   return freeGames;
 };
+
+module.exports = { getFreeGames };
