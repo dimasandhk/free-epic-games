@@ -1,0 +1,226 @@
+[
+  {
+    "title": "Mortal Shell",
+    "description": "Mortal Shell is a deep action-RPG that tests your sanity and resilience in a shattered world. Your adversaries spare no mercy, with survival demanding superior awareness and precision. Possess lost warriors, discover hidden sanctums, and face formidable foes.",
+    "offerType": "BASE_GAME",
+    "expiryDate": null,
+    "viewableDate": "2020-08-18T12:00:00.000Z",
+    "status": "ACTIVE",
+    "isCodeRedemptionOnly": false,
+    "url": null,
+    "categories": [
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "games/edition"
+      },
+      {
+        "path": "games/edition/base"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "offerMappings": [],
+    "price": {
+      "totalPrice": {
+        "discountPrice": 20200000,
+        "originalPrice": 20200000,
+        "voucherDiscount": 0,
+        "discount": 0,
+        "currencyCode": "IDR",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "fmtPrice": {
+          "originalPrice": "IDR 202,000.00",
+          "discountPrice": "IDR 202,000.00",
+          "intermediatePrice": "IDR 202,000.00"
+        }
+      },
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ]
+    },
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "startDate": "2025-03-13T15:00:00.000Z",
+              "endDate": "2025-03-20T15:00:00.000Z",
+              "discountSetting": {
+                "discountType": "PERCENTAGE",
+                "discountPercentage": 0
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "title": "Them's Fightin' Herds",
+    "id": "1f723b00df58467998c4984ca39915ad",
+    "namespace": "a567c32599bf4d4fb609e424f3691b39",
+    "description": "Them's Fightin' Herds",
+    "effectiveDate": "2022-12-19T16:00:00.000Z",
+    "offerType": "BASE_GAME",
+    "expiryDate": null,
+    "viewableDate": "2022-12-19T15:55:00.000Z",
+    "status": "ACTIVE",
+    "isCodeRedemptionOnly": false,
+    "url": null,
+    "categories": [
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "games/edition"
+      },
+      {
+        "path": "games/edition/base"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "offerMappings": [
+      {
+        "pageSlug": "thems-fightin-herds",
+        "pageType": "productHome"
+      }
+    ],
+    "price": {
+      "totalPrice": {
+        "discountPrice": 0,
+        "originalPrice": 10799900,
+        "voucherDiscount": 0,
+        "discount": 10799900,
+        "currencyCode": "IDR",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "fmtPrice": {
+          "originalPrice": "IDR 107,999.00",
+          "discountPrice": "0",
+          "intermediatePrice": "0"
+        }
+      },
+      "lineOffers": [
+        {
+          "appliedRules": [
+            {
+              "id": "fbbf86292a2e4552a7b85c2c3f17c56b",
+              "endDate": "2025-03-13T15:00:00.000Z",
+              "discountSetting": {
+                "discountType": "PERCENTAGE"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "promotions": {
+      "promotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "startDate": "2025-03-06T16:00:00.000Z",
+              "endDate": "2025-03-13T15:00:00.000Z",
+              "discountSetting": {
+                "discountType": "PERCENTAGE",
+                "discountPercentage": 0
+              }
+            }
+          ]
+        }
+      ],
+      "upcomingPromotionalOffers": []
+    }
+  },
+  {
+    "title": "Cat Quest II",
+    "id": "2a8398bbcb524c379ab21e31f0be5aeb",
+    "namespace": "58004246d72f474a957ff5f57b9684ca",
+    "description": "Open-world action-RPG in a fantasy realm of cats and dogs. CAT QUEST II lets you play solo or with a friend, as both a cat and dog! Quest in a world filled with magic, defeat monsters and collect loot in a catventure like never before!",
+    "effectiveDate": "2024-05-02T15:00:00.000Z",
+    "offerType": "BASE_GAME",
+    "expiryDate": null,
+    "viewableDate": "2024-04-30T13:00:00.000Z",
+    "status": "ACTIVE",
+    "isCodeRedemptionOnly": false,
+    "productSlug": null,
+    "urlSlug": "17c196bb2302467d9c930289a0b70562",
+    "url": null,
+    "categories": [
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "games/edition"
+      },
+      {
+        "path": "games/edition/base"
+      }
+    ],
+    "offerMappings": [
+      {
+        "pageSlug": "cat-quest-ii-9dbefc",
+        "pageType": "productHome"
+      }
+    ],
+    "price": {
+      "totalPrice": {
+        "discountPrice": 10399900,
+        "originalPrice": 10399900,
+        "voucherDiscount": 0,
+        "discount": 0,
+        "currencyCode": "IDR",
+        "currencyInfo": {
+          "decimals": 2
+        },
+        "fmtPrice": {
+          "originalPrice": "IDR 103,999.00",
+          "discountPrice": "IDR 103,999.00",
+          "intermediatePrice": "IDR 103,999.00"
+        }
+      },
+      "lineOffers": [
+        {
+          "appliedRules": []
+        }
+      ]
+    },
+    "promotions": {
+      "promotionalOffers": [],
+      "upcomingPromotionalOffers": [
+        {
+          "promotionalOffers": [
+            {
+              "startDate": "2025-03-26T16:00:00.000Z",
+              "endDate": "2025-04-09T15:00:00.000Z",
+              "discountSetting": {
+                "discountType": "PERCENTAGE",
+                "discountPercentage": 25
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "name": "bot-insis",
+  "version": "1.0.0",
+  "description": "Simple bot untuk projek1 integrasi sistem B ",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "nodemon src/utils/getGames.js"
+  },
+  "author": "Dimas Andhika Diputra",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.8.2",
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
